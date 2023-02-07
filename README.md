@@ -1,1 +1,1 @@
-This file contains images and source code for the webpage that has been created to inhance my skills on html css 
+This file contains images and source code for the webpage that has been created to inhance my skills on html, css, and javascript which is for the menu. It is a single webpage that contains a few sections to be made into one webpage where it is all displayed. 
